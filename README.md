@@ -7,9 +7,10 @@ To run:
 4. Unzip the subfolder in MotionTrackingAM called Data and keep it in the MotionTrackingAM directory (.../MotionTrackingAM/Data)
 5. Make sure you have a subfolder (downloaded from GitHub) called Instructions (.../MotionTracking/Instructions)
 6. Open 'main.m' in Matlab.
-7. Press Run.
-8. Enter 99 as a value for Participant ID (or any number between 1-200)
-9. Chaos.
+7. If you have multiple monitors, the program will run in Windowed (debugging) mode (1920x1080 window, off-center). It will run and collect data but not accurately match the screen refresh rate with desired timing.
+8. Press Run.
+9. Enter 99 as a value for Participant ID (or any number between 1-200)
+10. Please read the instructions onscreen before proceeding (also found in Instructions folder...).
 
 This Matlab project code is designed to move 4 coloured (equiluminus on experimental display) placeholdors (empty boxes) within a central location on-screen.
 

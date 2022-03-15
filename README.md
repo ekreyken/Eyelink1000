@@ -1,5 +1,16 @@
 # Moving Targets Code
-Matlab project code designed to move 4 coloured (equiluminus on experimental display) placeholdors (empty boxes) within a central location on-screen.
+
+To run:
+1. Install Matlab (v2019a or up)
+2. Install Psychtoolbox (https://psychtoolbox.org/)
+3. Download all GitHub files to a directory called MotionTrackingAM
+4. Create a subfolder in MotionTrackingAM called Data (.../MotionTrackingAM/Data)
+5. Make sure you have a subfolder (downloaded from GitHub) called Instructions (.../MotionTracking/Instructions)
+6. Open 'main.m' in Matlab.
+7. Press Run.
+8. Enter 99 as a value for Participant ID (or any number between 1-200)
+
+This Matlab project code is designed to move 4 coloured (equiluminus on experimental display) placeholdors (empty boxes) within a central location on-screen.
 
 This project was designed to run an experiment that determined whether reaction times differed significantly (statistically) between a target presented in the same location, one of two adjacent locations, or opposite location to a cue. This presents with 16 "valid" trial combinations, plus another 4 "invalid" trial combinations in which a cue is present but a target is not.
 

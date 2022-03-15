@@ -1,0 +1,6 @@
+Thank you for your participation in this Inhibition of Return (IOR) experiment.
+In this experiment, a trial consisted of a circular cue and a square target that appeared in a random box on screen. 
+IOR occurs when a cue and target appear in the same box: People are slower to react to these trials than trials where a cue and target appear in different boxes.
+We are examining whether people are faster to react to trials where a cue and target appear in boxes opposite each other.
+
+This concludes the experiment. Please press OK and let the Research Assistants know you are done.

@@ -3,12 +3,13 @@
 To run:
 1. Install Matlab (v2019a or up)
 2. Install Psychtoolbox (https://psychtoolbox.org/)
-3. Download all GitHub files to a directory called MotionTrackingAM
-4. Create a subfolder in MotionTrackingAM called Data (.../MotionTrackingAM/Data)
+3. Download all GitHub files to a directory called MotionTrackingAM (.../MotionTrackingAM)
+4. Unzip the subfolder in MotionTrackingAM called Data and keep it in the MotionTrackingAM directory (.../MotionTrackingAM/Data)
 5. Make sure you have a subfolder (downloaded from GitHub) called Instructions (.../MotionTracking/Instructions)
 6. Open 'main.m' in Matlab.
 7. Press Run.
 8. Enter 99 as a value for Participant ID (or any number between 1-200)
+9. Chaos.
 
 This Matlab project code is designed to move 4 coloured (equiluminus on experimental display) placeholdors (empty boxes) within a central location on-screen.
 
